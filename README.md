@@ -61,7 +61,11 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+## ELBOW METHOD 
+![image](https://github.com/user-attachments/assets/da6d8043-4caf-4c13-9bb4-697c801e7699)
+
+## SCATTER PLOT
+![image](https://github.com/user-attachments/assets/11daa474-b5e0-4ba1-9bd1-50d70c6d4ca0)
 
 
 ## Result:
